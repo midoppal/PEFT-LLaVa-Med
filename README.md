@@ -13,8 +13,10 @@ Run: ```preprocess.py```
 
 ## Binary Classifier
 Run on google colab, change file/folder names accordingly
+
 Run: ```CSE244C_Final_Project_LoRA_Bitfit.ipynb```
 
 ## Multi-Class Classifier
 Run on google colab, change file/folder names accordingly
+
 Run: ```CSE244C_Final_Project_Open_Classification.ipynb```
